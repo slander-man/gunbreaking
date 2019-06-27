@@ -1,18 +1,11 @@
-## Welcome to Storm, Earth & Lava
-> A resource for Elemental Shamans in World of Warcraft
-
-[back to web-page](http://stormearthandlava.com/)
-
-### Support us
-[Patreon](https://www.patreon.com/stormearthlava)
+## Welcome to Gunbreaking
+> A resource for Gunbreakers in Final Fantasy XIV Online.
 
 ### Error reporting
-[Issue system](https://github.com/stormearthandlava/stormearthandlava.github.io/issues).
+[Issue system](https://github.com/slander-man/gunbreaking/issues).
 
-### How to write
-[Wiki](https://github.com/stormearthandlava/stormearthandlava.github.io/wiki)
 
 ### Contact
-[Discord](http://discord.me/stormearthandlava)
+Discord: slander#8657
 
 [back to web-page](http://stormearthandlava.com/)
