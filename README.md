@@ -8,4 +8,4 @@
 ### Contact
 Discord: slander#8657
 
-[back to web-page](http://stormearthandlava.com/)
+[back to web-page](https://slander-man.github.io/gunbreaking/)
