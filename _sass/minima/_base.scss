@@ -266,12 +266,7 @@ a.spell_link {
   color: $link-color;
 }
 
-a.spell_link.spell_abdomen_tear::before {
-  content: '';
-  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/abdomen_tear.png');
-  height: 16px;
-  width: 16px;
-  position: relative;
-  left: -20px;
-  top: 10px;
+a.spell_link.spell_abdomen_tear {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/abdomen_tear.png') left center no-repeat;
+  padding-left: 18px !important;
 }
