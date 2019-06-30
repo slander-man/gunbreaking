@@ -8,7 +8,7 @@ toc: true
 
 So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
 
-{{ site.data.spell.abdomen_tear }} 
+{{ site.data.spell.gnashing_fang }} -> {{site.data.spell.jugular_rip}} -> {{ site.data.spell.savage_claw }} -> {{site.data.spell.abdomen_tear}} -> {{ site.data.spell.wicked_talon}} -> {{site.data.spell.eye_gouge}}
 
 
 
