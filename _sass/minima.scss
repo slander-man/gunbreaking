@@ -13,9 +13,11 @@ $spacing-unit:     30px !default;
 $text-color:       #F3F7F0 !default; // old: // #111 !default;
 $background-color: #222222 !default; // old: // #fdfdfd !default;
 $brand-color:      #A93F55 !default;
+$brand-color-light:#FF6978 !default;
 $link-color:       #8ACDEA !default;
+$off-color:        #19323C !default;
 
-$grey-color:       #19323C !default;
+$grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
