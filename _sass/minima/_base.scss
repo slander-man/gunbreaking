@@ -256,3 +256,22 @@ table {
     border: 1px solid $grey-color-dark;
   }
 }
+
+
+/**
+* Spell icons
+*/
+
+a.spell_link {
+  color: $link-color;
+}
+
+a.spell_link.spell_abdomen_tear::before {
+  content: '';
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/abdomen_tear.png');
+  height: 16px;
+  width: 16px;
+  position: relative;
+  left: -20px;
+  top: 10px;
+}

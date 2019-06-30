@@ -6,12 +6,11 @@ game_version: 5.0
 toc: true
 ---
 
-The elemental priority is fairly straightforward — the choice of which spell to cast next is often easy to make. The only issue you might face will be to learn the different ways the priorities shift with different talents. We have done our best to condense the SimulationCraft Action Priority List (APL) into a human-readable, easy to understand form. If you want to investigate any minor details, please refer to the APL in SimulationCraft or contact us on Discord.
+So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
 
-After reading the APL, please pay attention to the special mentions below, because we couldn't fit all special cases and handling into the readable formated APL.
+{{ site.data.spell.abdomen_tear }} 
 
 
-**If you have suggestions with sim evidence to back them up, please let us know on Discord.**
 
 ## Single target / two targets
 
