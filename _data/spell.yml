@@ -12,106 +12,43 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-abdomen_tear: <a href="https://ffxiv.gamerescape.com/wiki/Abdomen_Tear" target="blank" class="spell_link spell_abdomen_tear">Abdomen Tear</a>
-
-
-
-astral_recall: <a href="https://bfa.wowhead.com/spell=556" target="blank">Astral Recall</a>
-
-astral_shift: <a href="https://bfa.wowhead.com/spell=108271" target="blank">Astral Shift</a>
-
-bloodlust: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
-heroism: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
-
-capacitor_totem: <a href="https://bfa.wowhead.com/spell=192058" target="blank">Capacitor Totem</a>
-
-chain_lightning: <a href="https://bfa.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
-cl: <a href="https://bfa.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
-
-chain_lightning_rank_2: <a href="https://bfa.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
-cl_2: <a href="https://bfa.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
-
-cleanse_spirit: <a href="https://bfa.wowhead.com/spell=51886" target="blank">Cleanse Spirit</a>
-
-earth_elemental: <a href="https://bfa.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
-ee: <a href="https://bfa.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
-
-earth_shock: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
-es: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
-
-earthbind_totem: <a href="https://bfa.wowhead.com/spell=2484" target="blank">Earthbind Totem</a>
-
-earthquake: <a href="https://bfa.wowhead.com/spell=61882" target="blank">Earthquake</a>
-eq: <a href="https://bfa.wowhead.com/spell=61882" target="blank">Earthquake</a>
-
-elemental_fury: <a href="https://bfa.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
-ef: <a href="https://bfa.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
-
-elemental_overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-mastery_elemental_overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-mastery: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-
-far_sight: <a href="https://bfa.wowhead.com/spell=6196" target="blank">Far Sight</a>
-
-fire_elemental: <a href="https://bfa.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
-fe: <a href="https://bfa.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
-
-flame_shock: <a href="https://bfa.wowhead.com/spell=188389" target="blank">Flame Shock</a>
-fs: <a href="https://bfa.wowhead.com/spell=188389" target="blank">Flame Shock</a>
-
-frost_shock: <a href="https://bfa.wowhead.com/spell=196840" target="blank">Frost Shock</a>
-frs: <a href="https://bfa.wowhead.com/spell=196840" target="blank">Frost Shock</a>
-
-healing_surge: <a href="https://bfa.wowhead.com/spell=8004" target="blank">Healing Surge</a>
-
-hex: <a href="https://bfa.wowhead.com/spell=51514" target="blank">Hex</a>
-
-ghost_wolf: <a href="https://bfa.wowhead.com/spell=2645" target="blank">Ghost Wolf</a>
-
-lava_beam: <a href="https://bfa.wowhead.com/spell=114074" target="blank">Lava Beam</a>
-lvbm: <a href="https://bfa.wowhead.com/spell=114074" target="blank">Lava Beam</a>
-
-lava_burst: <a href="https://bfa.wowhead.com/spell=51505" target="blank">Lava Burst</a>
-lvb: <a href="https://bfa.wowhead.com/spell=51505" target="blank">Lava Burst</a>
-
-lava_surge: <a href="https://bfa.wowhead.com/spell=77756" target="blank">Lava Surge</a>
-ls: <a href="https://bfa.wowhead.com/spell=77756" target="blank">Lava Surge</a>
-
-lightning_bolt: <a href="https://bfa.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
-lb: <a href="https://bfa.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
-
-purge: <a href="https://bfa.wowhead.com/spell=370" target="blank">Purge</a>
-
-reincarnation: <a href="https://bfa.wowhead.com/spell=20608" target="blank">Reincarnation</a>
-ankh: <a href="https://bfa.wowhead.com/spell=20608" target="blank">Reincarnation</a>
-
-thunderstorm: <a href="https://bfa.wowhead.com/spell=51490" target="blank">Thunderstorm</a>
-
-tremor_totem: <a href="https://bfa.wowhead.com/spell=8143" target="blank">Tremor Totem</a>
-
-water_walking: <a href="https://bfa.wowhead.com/spell=546" target="blank">Water Walking</a>
-
-wind_shear: <a href="https://bfa.wowhead.com/spell=57994" target="blank">Wind Shear</a>
-
-fire_blast: <a href="http://bfa.wowhead.com/spell=57984/fire-blast" target="blank">Fire Blast</a>
-
-immolate: <a href="http://bfa.wowhead.com/spell=118297/immolate" target="blank">Immolate</a>
-
-meteor:  <a href="http://bfa.wowhead.com/spell=117588/meteor" target="blank">Meteor</a>
-
-pulverise: <a href="http://bfa.wowhead.com/spell=11845/pulverize" target="blank">Pulverize</a>
-pulverize: <a href="http://bfa.wowhead.com/spell=11845/pulverize" target="blank">Pulverize</a>
-
-angered_earth: <a href="http://bfa.wowhead.com/spell=36213/angered-earth" target="blank">Angered Earth</a>
-
-harden_skin: <a href="http://bfa.wowhead.com/spell=118337/harden-skin" target="blank">Harden Skin</a>
-
-call_lightning: <a href="http://bfa.wowhead.com/spell=157348/call-lightning" target="blank">Call Lightning</a>
-
-wind_gust: <a href="http://bfa.wowhead.com/spell=263806/wind-gust" target="blank">Wind Gust</a>
-
-eye_of_the_storm: <a href="http://bfa.wowhead.com/spell=157375/eye-of-the-storm" target="blank">Eye of the Storm</a>
-eye_of_the_storm_damage: <a href="http://bfa.wowhead.com/spell=157375/eye-of-the-storm" target="blank">Eye of the Storm</a>
-
-eye_of_the_storm_movement: <a href="http://bfa.wowhead.com/spell=157382/eye-of-the-storm" target="blank">Eye of the Storm</a>
+abdomen_tear: <a href="https://ffxiv.gamerescape.com/wiki/Abdomen_Tear" target="blank" class="spell_link abdomen_tear">Abdomen Tear</a>
+arms_length: <a href="https://ffxiv.gamerescape.com/wiki/Arm's_Length" target="blank" class="spell_link arms_length">Arms Length</a>
+aurora: <a href="https://ffxiv.gamerescape.com/wiki/Aurora" target="blank" class="spell_link aurora">Aurora</a>
+blasting_zone: <a href="https://ffxiv.gamerescape.com/wiki/Blasting_Zone" target="blank" class="spell_link blasting_zone">Blasting Zone</a>
+bloodfest: <a href="https://ffxiv.gamerescape.com/wiki/Bloodfest" target="blank" class="spell_link bloodfest">Bloodfest</a>
+bow_shock: <a href="https://ffxiv.gamerescape.com/wiki/Bow_Shock" target="blank" class="spell_link bow_shock">Bow Shock</a>
+brutal_shell: <a href="https://ffxiv.gamerescape.com/wiki/Brutal_Shell" target="blank" class="spell_link brutal_shell">Brutal Shell</a>
+burst_strike: <a href="https://ffxiv.gamerescape.com/wiki/Burst_Strike" target="blank" class="spell_link burst_strike">Burst Strike</a>
+camouflage: <a href="https://ffxiv.gamerescape.com/wiki/Camouflage" target="blank" class="spell_link camouflage">Camouflage</a>
+cartridge_charge: <a href="https://ffxiv.gamerescape.com/wiki/Cartridge_Charge" target="blank" class="spell_link cartridge_charge">Cartridge Charge</a>
+continuation: <a href="https://ffxiv.gamerescape.com/wiki/Continuation" target="blank" class="spell_link continuation">Continuation</a>
+danger_zone: <a href="https://ffxiv.gamerescape.com/wiki/Danger_Zone" target="blank" class="spell_link danger_zone">Danger Zone</a>
+danger_zone_mastery: <a href="https://ffxiv.gamerescape.com/wiki/Danger_Zone_Mastery" target="blank" class="spell_link danger_zone_mastery">Danger Zone Mastery</a>
+demon_slaughter: <a href="https://ffxiv.gamerescape.com/wiki/Demon_Slaughter" target="blank" class="spell_link demon_slaughter">Demon Slaughter</a>
+demon_slice: <a href="https://ffxiv.gamerescape.com/wiki/Demon_Slice" target="blank" class="spell_link demon_slice">Demon Slice</a>
+enhanced_brutal_shell: <a href="https://ffxiv.gamerescape.com/wiki/Enhanced_Brutal_Shell" target="blank" class="spell_link enhanced_brutal_shell">Enhanced Brutal Shell</a>
+eye_gouge: <a href="https://ffxiv.gamerescape.com/wiki/Eye_Gouge" target="blank" class="spell_link eye_gouge">Eye Gouge</a>
+fated_circle: <a href="https://ffxiv.gamerescape.com/wiki/Fated_Circle" target="blank" class="spell_link fated_circle">Fated Circle</a>
+gnashing_fang: <a href="https://ffxiv.gamerescape.com/wiki/Gnashing_Fang" target="blank" class="spell_link gnashing_fang">Gnashing Fang</a>
+heart_of_light: <a href="https://ffxiv.gamerescape.com/wiki/Heart_Of_Light" target="blank" class="spell_link heart_of_light">Heart Of Light</a>
+heart_of_stone: <a href="https://ffxiv.gamerescape.com/wiki/Heart_Of_Stone" target="blank" class="spell_link heart_of_stone">Heart Of Stone</a>
+interject: <a href="https://ffxiv.gamerescape.com/wiki/Interject" target="blank" class="spell_link interject">Interject</a>
+jugular_rip: <a href="https://ffxiv.gamerescape.com/wiki/Jugular_Rip" target="blank" class="spell_link jugular_rip">Jugular Rip</a>
+keen_edge: <a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a>
+lightning_shot: <a href="https://ffxiv.gamerescape.com/wiki/Lightning_Shot" target="blank" class="spell_link lightning_shot">Lightning Shot</a>
+low_blow: <a href="https://ffxiv.gamerescape.com/wiki/Low_Blow" target="blank" class="spell_link low_blow">Low Blow</a>
+nebula: <a href="https://ffxiv.gamerescape.com/wiki/Nebula" target="blank" class="spell_link nebula">Nebula</a>
+no_mercy: <a href="https://ffxiv.gamerescape.com/wiki/No_Mercy" target="blank" class="spell_link no_mercy">No Mercy</a>
+provoke: <a href="https://ffxiv.gamerescape.com/wiki/Provoke" target="blank" class="spell_link provoke">Provoke</a>
+rampart: <a href="https://ffxiv.gamerescape.com/wiki/Rampart" target="blank" class="spell_link rampart">Rampart</a>
+reprisal: <a href="https://ffxiv.gamerescape.com/wiki/Reprisal" target="blank" class="spell_link reprisal">Reprisal</a>
+rough_divide: <a href="https://ffxiv.gamerescape.com/wiki/Rough_Divide" target="blank" class="spell_link rough_divide">Rough Divide</a>
+royal_guard: <a href="https://ffxiv.gamerescape.com/wiki/Royal_Guard" target="blank" class="spell_link royal_guard">Royal Guard</a>
+savage_claw: <a href="https://ffxiv.gamerescape.com/wiki/Savage_Claw" target="blank" class="spell_link savage_claw">Savage Claw</a>
+shirk: <a href="https://ffxiv.gamerescape.com/wiki/Shirk" target="blank" class="spell_link shirk">Shirk</a>
+solid_barrel: <a href="https://ffxiv.gamerescape.com/wiki/Solid_Barrel" target="blank" class="spell_link solid_barrel">Solid Barrel</a>
+sonic_break: <a href="https://ffxiv.gamerescape.com/wiki/Sonic_Break" target="blank" class="spell_link sonic_break">Sonic Break</a>
+superbolide: <a href="https://ffxiv.gamerescape.com/wiki/Superbolide" target="blank" class="spell_link superbolide">Superbolide</a>
+tank_mastery: <a href="https://ffxiv.gamerescape.com/wiki/Tank_Mastery" target="blank" class="spell_link tank_mastery">Tank Mastery</a>
+wicked_talon: <a href="https://ffxiv.gamerescape.com/wiki/Wicked_Talon" target="blank" class="spell_link wicked_talon">Wicked Talon</a>

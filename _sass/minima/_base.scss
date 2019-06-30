@@ -263,10 +263,166 @@ table {
 */
 
 a.spell_link {
-  color: $link-color;
+  color: $link-color !important;
+  padding-left: 18px !important;
 }
 
-a.spell_link.spell_abdomen_tear {
+a.spell_link.abdomen_tear {
   background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/abdomen_tear.png') left center no-repeat;
-  padding-left: 18px !important;
+}
+
+a.spell_link.arms_length {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/arms_length.png') left center no-repeat;
+}
+
+a.spell_link.aurora {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/aurora.png') left center no-repeat;
+}
+
+a.spell_link.blasting_zone {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/blasting_zone.png') left center no-repeat;
+}
+
+a.spell_link.bloodfest {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/bloodfest.png') left center no-repeat;
+}
+
+a.spell_link.bow_shock {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/bow_shock.png') left center no-repeat;
+}
+
+a.spell_link.brutal_shell {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/brutal_shell.png') left center no-repeat;
+}
+
+a.spell_link.burst_strike {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/burst_strike.png') left center no-repeat;
+}
+
+a.spell_link.camouflage {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/camouflage.png') left center no-repeat;
+}
+
+a.spell_link.cartridge_charge {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/cartridge_charge.png') left center no-repeat;
+}
+
+a.spell_link.continuation {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/continuation.png') left center no-repeat;
+}
+
+a.spell_link.danger_zone {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/danger_zone.png') left center no-repeat;
+}
+
+a.spell_link.danger_zone_mastery {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/danger_zone_mastery.png') left center no-repeat;
+}
+
+a.spell_link.demon_slaughter {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/demon_slaughter.png') left center no-repeat;
+}
+
+a.spell_link.demon_slice {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/demon_slice.png') left center no-repeat;
+}
+
+a.spell_link.enhanced_brutal_shell {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/enhanced_brutal_shell.png') left center no-repeat;
+}
+
+a.spell_link.eye_gouge {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/eye_gouge.png') left center no-repeat;
+}
+
+a.spell_link.fated_circle {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/fated_circle.png') left center no-repeat;
+}
+
+a.spell_link.gnashing_fang {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/gnashing_fang.png') left center no-repeat;
+}
+
+a.spell_link.heart_of_light {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/heart_of_light.png') left center no-repeat;
+}
+
+a.spell_link.heart_of_stone {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/heart_of_stone.png') left center no-repeat;
+}
+
+a.spell_link.interject {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/interject.png') left center no-repeat;
+}
+
+a.spell_link.jugular_rip {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/jugular_rip.png') left center no-repeat;
+}
+
+a.spell_link.keen_edge {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/keen_edge.png') left center no-repeat;
+}
+
+a.spell_link.lightning_shot {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/lightning_shot.png') left center no-repeat;
+}
+
+a.spell_link.low_blow {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/low_blow.png') left center no-repeat;
+}
+
+a.spell_link.nebula {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/nebula.png') left center no-repeat;
+}
+
+a.spell_link.no_mercy {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/no_mercy.png') left center no-repeat;
+}
+
+a.spell_link.provoke {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/provoke.png') left center no-repeat;
+}
+
+a.spell_link.rampart {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/rampart.png') left center no-repeat;
+}
+
+a.spell_link.reprisal {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/reprisal.png') left center no-repeat;
+}
+
+a.spell_link.rough_divide {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/rough_divide.png') left center no-repeat;
+}
+
+a.spell_link.royal_guard {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/royal_guard.png') left center no-repeat;
+}
+
+a.spell_link.savage_claw {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/savage_claw.png') left center no-repeat;
+}
+
+a.spell_link.shirk {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/shirk.png') left center no-repeat;
+}
+
+a.spell_link.solid_barrel {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/solid_barrel.png') left center no-repeat;
+}
+
+a.spell_link.sonic_break {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/sonic_break.png') left center no-repeat;
+}
+
+a.spell_link.superbolide {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/superbolide.png') left center no-repeat;
+}
+
+a.spell_link.tank_mastery {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/tank_mastery.png') left center no-repeat;
+}
+
+a.spell_link.wicked_talon {
+  background: url('https://slander-man.github.io/gunbreaking/assets/img/spellicon/small/wicked_talon.png') left center no-repeat;
 }
