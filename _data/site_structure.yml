@@ -4,6 +4,8 @@ categories:
 
 - title: Guide
   subcategories:
+    - title: GNB for Dummies
+      url: /guide/entry.html
     - title: Rotation & Offensive Cooldowns
       url: /guide/general/rotation.html
     - title: Stats & Gear
