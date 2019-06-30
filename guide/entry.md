@@ -3,10 +3,47 @@ layout: page
 title: GNB for Dummies
 last_update: 2019-06-30 00:00:00
 game_version: 5.0
-toc: true
+toc: false
 ---
 
 So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
+
+## Abilities: the very basics
+
+Gunbreaker has 29 total abilities and an additional 7 tank role actions. The central theme to the Gunbreaker's toolkit is the generation and spending of <span class="highlight-red">Cartridges</span>. Correctly executing {{site.data.spell.solid_barrel}} and {{site.data.spell.demon_slaughter}} in their respective 'combos' generates a <span class="highlight-red">Cartridge</span>, which can be spent on {{site.data.spell.gnashing_fang}}, {{site.data.spell.burst_strike}}, or {{site.data.spell.fated_circle}}.
+
+Basic single target combo:
+
+1. {{site.data.spell.keen_edge}}
+2. {{site.data.spell.brutal_shell}}
+3. {{site.data.spell.solid_barrel}}
+
++1 <span class="highlight-red">Cartridge</span> generated!
+
+Basic multiple target combo:
+
+1. {{site.data.spell.demon_slice}}
+2. {{site.data.spell.demon_slaughter}}
+
++1 <span class="highlight-red">Cartridge</span> generated!
+
+Once you have generated a <span class="highlight-red">Cartridge</span>, it can be spent on one of the following:
+
+- {{site.data.spell.gnashing_fang}} or
+- {{site.data.spell.burst_strike}} or
+- {{site.data.spell.fated_circle}}
+
+You'll note that {{site.data.spell.gnashing_fang}} has a cooldown and {{site.data.spell.burst_strike}} does not. This is because {{site.data.spell.gnashing_fang}} allows for the execution of your highest damaging combo:
+
+1. {{site.data.spell.gnashing_fang}}
+2. {{site.data.spell.savage_claw}}
+3. {{site.data.spell.wicked_talon}}
+
+
+## Advanced ability information
+
+
+### Opener
 
 1. {{site.data.spell.keen_edge}}
 2. {{site.data.spell.brutal_shell}}
