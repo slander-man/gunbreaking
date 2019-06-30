@@ -8,7 +8,23 @@ toc: true
 
 So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
 
-{{ site.data.spell.gnashing_fang }} -> {{site.data.spell.jugular_rip}} -> {{ site.data.spell.savage_claw }} -> {{site.data.spell.abdomen_tear}} -> {{ site.data.spell.wicked_talon}} -> {{site.data.spell.eye_gouge}}
+1. {{site.data.spell.keen_edge}}
+2. {{site.data.spell.brutal_shell}}
+3. {{site.data.spell.solid_barrel}}
+4. {{site.data.spell.keen_edge}} + {{site.data.spell.no_mercy}} (cast NM in the last 1/3rd of your GCD)
+5. {{site.data.spell.brutal_shell}}
+6. {{site.data.spell.gnashing_fang}} + {{site.data.spell.bloodfest}} + {{site.data.spell.jugular_rip}}
+7. {{site.data.spell.sonic_break}} + {{site.data.spell.bow_shock}} + {{site.data.spell.blasting_zone}}
+8. {{site.data.spell.savage_claw}} + {{site.data.spell.rough_divide}} + {{site.data.spell.abdomen_tear}}
+9. {{site.data.spell.wicked_talon}} + {{site.data.spell.rough_divide}} + {{site.data.spell.eye_gouge}}
+10. {{site.data.spell.burst_strike}}
+11. {{site.data.spell.solid_barrel}}
+12. {{site.data.spell.burst_strike}}
+13. {{site.data.spell.burst_strike}}
+
+
+{{ site.data.spell.gnashing_fang }}
+ {{site.data.spell.jugular_rip}} -> {{ site.data.spell.savage_claw }} -> {{site.data.spell.abdomen_tear}} -> {{ site.data.spell.wicked_talon}} -> {{site.data.spell.eye_gouge}}
 
 
 
