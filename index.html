@@ -7,7 +7,9 @@ layout: default
   {%- endif -%}
 
   <!-- Add your content here -->
-  <img src="{{ site.url }}/assets/img/logos/logo.png" />
+  <div style="margin-bottom: 10px;">
+    <img src="{{ site.url }}/assets/img/logos/logo.png" />
+  </div>
   <!-- Stop adding your content here -->
 
   <!-- --<div class="alert alert-warning" role="alert">
@@ -16,48 +18,11 @@ layout: default
     <p class="mb-0">All written content should be updated for 8.1. Please notify us if things seem out of place, don't work or aren't updated. If you're looking for 8.0 information, we're sorry, these are gone for good. Greet our new Overlords {{ site.data.talent.er }} and {{ site.data.talent.sk }}. </p>
   </div><!-- -->
   <div>
-    <p>Welcome to Gunbreaking: the definitive GNB guide for FFXIV patch 5.0!</p>
+    <p>Welcome to Gunbreaking: slander's GNB guide for Final Fantasy XIV Online patch 5.0! If you notice any inconsistencies or issues with the guide, contact <span class="highlight">slander#8657</span> on Discord or <span class="highlight">The Slanderer @ Tonberry (JP)</span> in game. You can find links to the most important parts of this site below:</p>
   </div>
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 
-    <ul class="post-list">
-      <!-- adjusting the number of posts per page happens in _config.yml 'paginate: ' -->
-      {%- for post in paginator.posts -%}
-        {%- unless post.categories contains "guide" or post.categories contains "raids" or post.categories contains "dungeons" -%}
-        <li>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt | truncatewords:30 }}
-          {%- endif -%}
-        </li>
-        {%- endunless -%}
-      {%- endfor -%}
-    </ul>
+  <div>
 
-    <!-- Pagination links -->
-    {%- if paginator.total_pages > 1 -%}
-      <div class="pagination">
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>&nbsp;-&nbsp;
-        {% else %}
-          <!--<span class="previous">Previous&nbsp;-&nbsp;</span>-->
-        {% endif %}
-        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.next_page %}
-          &nbsp;-&nbsp;<a href="{{ paginator.next_page_path }}" class="next">Next</a>
-        {% else %}
-          <!--<span class="next ">&nbsp;-&nbsp;Next</span>-->
-        {% endif %}
-      </div>
-    {%- endif -%}
-
-  {%- endif -%}
+  </div>
 
 </div>
