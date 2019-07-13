@@ -65,6 +65,58 @@ You'll note that {{site.data.spell.gnashing_fang}} has a cooldown and {{site.dat
 
 
 
+
+
+
+
+
+
+{{ site.data.spell.keen_edge }}
+{{ site.data.spell.brutal_shell }}
+{{ site.data.spell.solid_barrel }}
+{{ site.data.spell.abdomen_tear }}
+{{ site.data.spell.arms_length }}
+{{ site.data.spell.aurora }}
+{{ site.data.spell.blasting_zone }}
+{{ site.data.spell.bloodfest }}
+{{ site.data.spell.bow_shock }}
+{{ site.data.spell.burst_strike }}
+{{ site.data.spell.camouflage }}
+{{ site.data.spell.continuation }}
+{{ site.data.spell.danger_zone }}
+{{ site.data.spell.demon_slaughter }}
+{{ site.data.spell.demon_slice }}
+{{ site.data.spell.eye_gouge }}
+{{ site.data.spell.fated_circle }}
+{{ site.data.spell.gnashing_fang }}
+{{ site.data.spell.heart_of_light }}
+{{ site.data.spell.heart_of_stone }}
+{{ site.data.spell.interject }}
+{{ site.data.spell.jugular_rip }}
+{{ site.data.spell.lightning_shot }}
+{{ site.data.spell.low_blow }}
+{{ site.data.spell.nebula }}
+{{ site.data.spell.no_mercy }}
+{{ site.data.spell.provoke }}
+{{ site.data.spell.rampart }}
+{{ site.data.spell.reprisal }}
+{{ site.data.spell.rough_divide }}
+{{ site.data.spell.royal_guard }}
+{{ site.data.spell.savage_claw }}
+{{ site.data.spell.shirk }}
+{{ site.data.spell.sonic_break }}
+{{ site.data.spell.superbolide }}
+{{ site.data.spell.wicked_talon }}
+
+
+
+
+
+
+
+
+
+
 ## Single target / two targets
 
 
