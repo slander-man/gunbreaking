@@ -10,13 +10,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             var spell_cd = node.children[0].children[3]
             var spell_desc = node.children[0].children[5]
             spell_name.innerHTML = '<a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a>'
-            spell_desc.innerHTML = `Delivers an attack with a potency of 100.
-            <br><span style='color:greenyellow'>Combo Action:</span> <span style='color:orange'>Keen Edge</span>
-            <br><span style='color:greenyellow'>Combo Potency:</span> 300
-            <br><span style='color:greenyellow'>Combo Bonus:</span> Restores own HP
-            <br><span style='color:greenyellow'>Cure Potency:</span> 150
-            <br><span style='color:greenyellow'>Combo Bonus:</span> Creates a barrier which nullifies damage equaling HP restored
-            <br><span style='color:greenyellow'>Duration:</span> 10s<br>`
+            spell_desc.innerHTML = `Delivers an attack with a potency of 100.`
             container.appendChild(node)
             return container
         }
