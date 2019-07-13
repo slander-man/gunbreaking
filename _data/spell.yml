@@ -12,7 +12,10 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-keen_edge: <button id="test_tippy" data-tippy-content="Test"><a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a></button>
+keen_edge: <span class="keen_edge_tt"><a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a></span>
+brutal_shell: <span class="brutal_shell_tt"><a href="https://ffxiv.gamerescape.com/wiki/Brutal_Shell" target="blank" class="spell_link brutal_shell">Brutal Shell</a></span>
+solid_barrel: <span class="solid_barrel_tt"><a href="https://ffxiv.gamerescape.com/wiki/Solid_Barrel" target="blank" class="spell_link solid_barrel">Solid Barrel</a></span>
+
 
 abdomen_tear: <a href="https://ffxiv.gamerescape.com/wiki/Abdomen_Tear" target="blank" class="spell_link abdomen_tear">Abdomen Tear</a>
 arms_length: <a href="https://ffxiv.gamerescape.com/wiki/Arm's_Length" target="blank" class="spell_link arms_length">Arms Length</a>
@@ -20,7 +23,7 @@ aurora: <a href="https://ffxiv.gamerescape.com/wiki/Aurora" target="blank" class
 blasting_zone: <a href="https://ffxiv.gamerescape.com/wiki/Blasting_Zone" target="blank" class="spell_link blasting_zone">Blasting Zone</a>
 bloodfest: <a href="https://ffxiv.gamerescape.com/wiki/Bloodfest" target="blank" class="spell_link bloodfest">Bloodfest</a>
 bow_shock: <a href="https://ffxiv.gamerescape.com/wiki/Bow_Shock" target="blank" class="spell_link bow_shock">Bow Shock</a>
-brutal_shell: <a href="https://ffxiv.gamerescape.com/wiki/Brutal_Shell" target="blank" class="spell_link brutal_shell">Brutal Shell</a>
+
 burst_strike: <a href="https://ffxiv.gamerescape.com/wiki/Burst_Strike" target="blank" class="spell_link burst_strike">Burst Strike</a>
 camouflage: <a href="https://ffxiv.gamerescape.com/wiki/Camouflage" target="blank" class="spell_link camouflage">Camouflage</a>
 cartridge_charge: <a href="https://ffxiv.gamerescape.com/wiki/Cartridge_Charge" target="blank" class="spell_link cartridge_charge">Cartridge Charge</a>
@@ -49,7 +52,7 @@ rough_divide: <a href="https://ffxiv.gamerescape.com/wiki/Rough_Divide" target="
 royal_guard: <a href="https://ffxiv.gamerescape.com/wiki/Royal_Guard" target="blank" class="spell_link royal_guard">Royal Guard</a>
 savage_claw: <a href="https://ffxiv.gamerescape.com/wiki/Savage_Claw" target="blank" class="spell_link savage_claw">Savage Claw</a>
 shirk: <a href="https://ffxiv.gamerescape.com/wiki/Shirk" target="blank" class="spell_link shirk">Shirk</a>
-solid_barrel: <a href="https://ffxiv.gamerescape.com/wiki/Solid_Barrel" target="blank" class="spell_link solid_barrel">Solid Barrel</a>
+
 sonic_break: <a href="https://ffxiv.gamerescape.com/wiki/Sonic_Break" target="blank" class="spell_link sonic_break">Sonic Break</a>
 superbolide: <a href="https://ffxiv.gamerescape.com/wiki/Superbolide" target="blank" class="spell_link superbolide">Superbolide</a>
 tank_mastery: <a href="https://ffxiv.gamerescape.com/wiki/Tank_Mastery" target="blank" class="spell_link tank_mastery">Tank Mastery</a>
