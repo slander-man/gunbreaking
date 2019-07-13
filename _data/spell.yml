@@ -12,9 +12,9 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-keen_edge: <span class="keen_edge_tt"><a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a></span>
-brutal_shell: <span class="brutal_shell_tt"><a href="https://ffxiv.gamerescape.com/wiki/Brutal_Shell" target="blank" class="spell_link brutal_shell">Brutal Shell</a></span>
-solid_barrel: <span class="solid_barrel_tt"><a href="https://ffxiv.gamerescape.com/wiki/Solid_Barrel" target="blank" class="spell_link solid_barrel">Solid Barrel</a></span>
+keen_edge: <span class="keen_edge_tt" data-template="tt"><a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a></span>
+brutal_shell: <span class="brutal_shell_tt" data-template="tt"><a href="https://ffxiv.gamerescape.com/wiki/Brutal_Shell" target="blank" class="spell_link brutal_shell">Brutal Shell</a></span>
+solid_barrel: <span class="solid_barrel_tt" data-template="tt"><a href="https://ffxiv.gamerescape.com/wiki/Solid_Barrel" target="blank" class="spell_link solid_barrel">Solid Barrel</a></span>
 
 
 abdomen_tear: <a href="https://ffxiv.gamerescape.com/wiki/Abdomen_Tear" target="blank" class="spell_link abdomen_tear">Abdomen Tear</a>
