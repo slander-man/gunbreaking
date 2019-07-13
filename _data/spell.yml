@@ -12,6 +12,8 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
+keen_edge: <button id="test_tippy" data-tippy-content="Test"><a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a></button>
+
 abdomen_tear: <a href="https://ffxiv.gamerescape.com/wiki/Abdomen_Tear" target="blank" class="spell_link abdomen_tear">Abdomen Tear</a>
 arms_length: <a href="https://ffxiv.gamerescape.com/wiki/Arm's_Length" target="blank" class="spell_link arms_length">Arms Length</a>
 aurora: <a href="https://ffxiv.gamerescape.com/wiki/Aurora" target="blank" class="spell_link aurora">Aurora</a>
@@ -35,7 +37,7 @@ heart_of_light: <a href="https://ffxiv.gamerescape.com/wiki/Heart_Of_Light" targ
 heart_of_stone: <a href="https://ffxiv.gamerescape.com/wiki/Heart_Of_Stone" target="blank" class="spell_link heart_of_stone">Heart Of Stone</a>
 interject: <a href="https://ffxiv.gamerescape.com/wiki/Interject" target="blank" class="spell_link interject">Interject</a>
 jugular_rip: <a href="https://ffxiv.gamerescape.com/wiki/Jugular_Rip" target="blank" class="spell_link jugular_rip">Jugular Rip</a>
-keen_edge: <a href="https://ffxiv.gamerescape.com/wiki/Keen_Edge" target="blank" class="spell_link keen_edge">Keen Edge</a>
+
 lightning_shot: <a href="https://ffxiv.gamerescape.com/wiki/Lightning_Shot" target="blank" class="spell_link lightning_shot">Lightning Shot</a>
 low_blow: <a href="https://ffxiv.gamerescape.com/wiki/Low_Blow" target="blank" class="spell_link low_blow">Low Blow</a>
 nebula: <a href="https://ffxiv.gamerescape.com/wiki/Nebula" target="blank" class="spell_link nebula">Nebula</a>
