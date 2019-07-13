@@ -42,12 +42,10 @@ tippy('.brutal_shell_tt', {
         const container = document.createElement('div')
         const linkedTemplate = document.getElementById(id)
         const node = document.importNode(linkedTemplate.content, true)
-        console.log(id, container, linkedTemplate, node)
         var spell_name = node.children[0].children[0]
         var spell_cast = node.children[0].children[2]
         var spell_cd = node.children[0].children[3]
         var spell_desc = node.children[0].children[5]
-        console.log(spell_name, spell_cast, spell_cd, spell_desc)
         spell_name.innerHTML = '<a href="https://ffxiv.gamerescape.com/wiki/Brutal_Shell" target="blank" class="spell_link brutal_shell">Brutal Shell</a>'
         spell_desc.innerHTML = `Delivers an attack with a potency of 100.
         <br><span style='color:greenyellow'>Combo Action:</span> <span style='color:orange'>Keen Edge</span>
@@ -67,12 +65,10 @@ tippy('.solid_barrel_tt', {
         const container = document.createElement('div')
         const linkedTemplate = document.getElementById(id)
         const node = document.importNode(linkedTemplate.content, true)
-        console.log(id, container, linkedTemplate, node)
         var spell_name = node.children[0].children[0]
         var spell_cast = node.children[0].children[2]
         var spell_cd = node.children[0].children[3]
         var spell_desc = node.children[0].children[5]
-        console.log(spell_name, spell_cast, spell_cd, spell_desc)
         spell_name.innerHTML = '<a href="https://ffxiv.gamerescape.com/wiki/Solid_Barrel" target="blank" class="spell_link solid_barrel">Solid Barrel</a>'
         spell_desc.innerHTML = `Delivers an attack with a potency of 100.
         <br><span style='color:greenyellow'>Combo Action:</span> <span style='color:orange'>Brutal Shell</span>
