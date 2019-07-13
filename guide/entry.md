@@ -71,41 +71,77 @@ You'll note that {{site.data.spell.gnashing_fang}} has a cooldown and {{site.dat
 
 
 
-{{ site.data.spell.keen_edge }}
-{{ site.data.spell.brutal_shell }}
-{{ site.data.spell.solid_barrel }}
+
 {{ site.data.spell.abdomen_tear }}
+<br>
 {{ site.data.spell.arms_length }}
+<br>
 {{ site.data.spell.aurora }}
+<br>
 {{ site.data.spell.blasting_zone }}
+<br>
 {{ site.data.spell.bloodfest }}
+<br>
 {{ site.data.spell.bow_shock }}
+<br>
+{{ site.data.spell.brutal_shell }}
+<br>
 {{ site.data.spell.burst_strike }}
+<br>
 {{ site.data.spell.camouflage }}
+<br>
 {{ site.data.spell.continuation }}
+<br>
 {{ site.data.spell.danger_zone }}
+<br>
 {{ site.data.spell.demon_slaughter }}
+<br>
 {{ site.data.spell.demon_slice }}
+<br>
 {{ site.data.spell.eye_gouge }}
+<br>
 {{ site.data.spell.fated_circle }}
+<br>
 {{ site.data.spell.gnashing_fang }}
+<br>
 {{ site.data.spell.heart_of_light }}
+<br>
 {{ site.data.spell.heart_of_stone }}
+<br>
 {{ site.data.spell.interject }}
+<br>
 {{ site.data.spell.jugular_rip }}
+<br>
+{{ site.data.spell.keen_edge }}
+<br>
 {{ site.data.spell.lightning_shot }}
+<br>
 {{ site.data.spell.low_blow }}
+<br>
 {{ site.data.spell.nebula }}
+<br>
 {{ site.data.spell.no_mercy }}
+<br>
 {{ site.data.spell.provoke }}
+<br>
 {{ site.data.spell.rampart }}
+<br>
 {{ site.data.spell.reprisal }}
+<br>
 {{ site.data.spell.rough_divide }}
+<br>
 {{ site.data.spell.royal_guard }}
+<br>
 {{ site.data.spell.savage_claw }}
+<br>
 {{ site.data.spell.shirk }}
+<br>
+{{ site.data.spell.solid_barrel }}
+<br>
 {{ site.data.spell.sonic_break }}
+<br>
 {{ site.data.spell.superbolide }}
+<br>
 {{ site.data.spell.wicked_talon }}
 
 
