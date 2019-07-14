@@ -5,7 +5,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -53,7 +53,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -82,7 +82,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -107,7 +107,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -130,7 +130,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -155,7 +155,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -180,7 +180,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -204,7 +204,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -230,7 +230,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -255,7 +255,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -280,7 +280,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -307,7 +307,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -335,7 +335,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -360,7 +360,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -389,7 +389,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -415,7 +415,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -443,7 +443,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -470,7 +470,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -497,7 +497,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -525,7 +525,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -550,7 +550,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -578,7 +578,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -605,7 +605,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -630,7 +630,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -655,7 +655,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -679,7 +679,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -704,7 +704,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -729,7 +729,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -754,7 +754,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -779,7 +779,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -804,7 +804,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -829,7 +829,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -853,7 +853,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -878,7 +878,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -905,7 +905,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         animation: 'fade',
         interactive: true,
         duration: 150,
-        followCursor: true,
+        
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
