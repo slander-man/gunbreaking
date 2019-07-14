@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Intro to Gunbreaker
-last_update: 2019-06-30 00:00:00
+last_update: 2019-07-14 00:00:00
 game_version: 5.0
 toc: false
 ---
 
-<img src="https://slander-man.github.io/gunbreaking/assets/img/guide/intro_banner.png" />
+<img class="shadow_image" style="border-bottom: 2px solid #111" src="https://slander-man.github.io/gunbreaking/assets/img/guide/intro_banner.png" />
 
 So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
 

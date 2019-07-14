@@ -398,3 +398,8 @@ div.blizzard-post::before {
 div.blizzard-post a.icontinyl {
   color: #bef !important;
 }
+
+img.shadow_image { 
+  -webkit-filter: drop-shadow(5px 5px 5px #111);
+  filter: drop-shadow(5px 5px 5px #111);
+}
