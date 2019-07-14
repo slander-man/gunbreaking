@@ -1,5 +1,11 @@
 window.addEventListener('DOMContentLoaded', (event) => {
     tippy('.keen_edge_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -17,6 +23,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.no_mercy_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -36,6 +48,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
     
     tippy('.brutal_shell_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -59,6 +77,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.camouflage_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -78,6 +102,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.demon_slice_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -95,6 +125,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.royal_guard_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -114,6 +150,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.lightning_shot_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -133,6 +175,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.danger_zone_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -151,6 +199,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
     
     tippy('.solid_barrel_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -171,6 +225,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.burst_strike_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -190,6 +250,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.nebula_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -209,6 +275,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.demon_slaughter_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -230,6 +302,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.aurora_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -252,6 +330,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
 
     tippy('.superbolide_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -271,6 +355,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.sonic_break_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -294,6 +384,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.rough_divide_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -314,6 +410,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
     
     tippy('.gnashing_fang_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -336,6 +438,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.savage_claw_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -357,6 +465,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.wicked_talon_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -378,6 +492,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.bow_shock_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -400,6 +520,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.heart_of_light_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -419,6 +545,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.heart_of_stone_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -441,6 +573,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.continuation_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -462,6 +600,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.fated_circle_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -481,6 +625,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.bloodfest_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -500,6 +650,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.blasting_zone_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -518,6 +674,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.jugular_rip_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -537,6 +699,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
     
     tippy('.abdomen_tear_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -556,6 +724,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.eye_gouge_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -575,6 +749,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.rampart_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -594,6 +774,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.low_blow_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -613,6 +799,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.provoke_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -632,6 +824,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.interject_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -650,6 +848,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.reprisal_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -669,6 +873,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.arms_length_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
@@ -690,6 +900,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     })
 
     tippy('.shirk_tt', {
+        arrow: true,
+        arrowType: 'round',
+        animation: 'fade',
+        interactive: true,
+        duration: 150,
+        followCursor: true,
         content(reference) {
             const id = reference.getAttribute('data-template')
             const container = document.createElement('div')
