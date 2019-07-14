@@ -9,7 +9,7 @@ toc: false
 So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
 
 
-<img src="/assets/img/guide/think.png" />
+<img src="https://slander-man.github.io/gunbreaking/assets/img/guide/think.png" />
 
 
 ## Terminology & game concepts
@@ -25,7 +25,7 @@ The following guide will contain some terminology that may be unfamiliar to thos
 7. <span class="highlight-red">Single target (ST) damage</span> - damage that hits a primary target and no others.
 
 
-<img src="/assets/img/guide/stance.png" />
+<img src="https://slander-man.github.io/gunbreaking/assets/img/guide/stance.png" />
 
 
 ## Abilities: the very basics
