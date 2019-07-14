@@ -323,7 +323,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             var spell_cast = node.children[0].children[2]
             var spell_cd = node.children[0].children[3]
             var spell_desc = node.children[0].children[5]
-            spell_name.innerHTML = '<a href="https://ffxiv.gamerescape.com/wiki/Gnashing_Fang" target="blank" class="spell_link gnashing_fang">Gnashing_Fang</a>'
+            spell_name.innerHTML = '<a href="https://ffxiv.gamerescape.com/wiki/Gnashing_Fang" target="blank" class="spell_link gnashing_fang">Gnashing Fang</a>'
             spell_cd.innerHTML = 'Recast: ~29.00s'
             spell_desc.innerHTML = `Delivers an attack with a potency of 450.
             <br><span style='color:greenyellow'>Additional Effect:</span> Grants <span style="color:yellow">Ready to Rip</span>
