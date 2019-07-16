@@ -30,7 +30,7 @@ The following guide will contain some terminology that may be unfamiliar to thos
 
 Gunbreaker has 29 total abilities and an additional 7 tank role actions. The central theme to the Gunbreaker's toolkit is the generation and spending of <span class="highlight-red">Cartridges</span>. Correctly executing {{site.data.spell.solid_barrel}} and {{site.data.spell.demon_slaughter}} in their respective combos generates a <span class="highlight-red">Cartridge</span>, which can be spent on {{site.data.spell.gnashing_fang}}, {{site.data.spell.burst_strike}}, or {{site.data.spell.fated_circle}}.
 
-<h3 id="combos">2.1 - Learning your combos</h2>
+<h3 id="combos">2.1 - Learning your combos</h3>
 
 Basic single target combo:
 
