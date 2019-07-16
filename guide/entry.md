@@ -10,8 +10,9 @@ toc: false
 
 So you unlocked Gunbreaker -- now what? This page should serve as a helpful resource if you have never played the job before, if you're new to tanking, or even if you're new to FFXIV. If you want to read a guide with more in-depth information, please check out the other pages on this site.
 
+<hr>
 
-## Terminology & game concepts
+<h2 id="terminology">1.0 - Terminology & game concepts</h2>
 
 The following guide will contain some terminology that may be unfamiliar to those new to Gunbreaker or FFXIV in general. This section will bring you up to speed on certain concepts and terms that are ubiquitous in job guides.
 
@@ -23,14 +24,13 @@ The following guide will contain some terminology that may be unfamiliar to thos
 6. <span class="highlight-red">Area of effect (AOE) damage</span> - damage that hits multiple targets or all targets in an area.
 7. <span class="highlight-red">Single target (ST) damage</span> - damage that hits a primary target and no others.
 
+<hr>
 
-
-
-## Abilities: the very basics
+<h2 id="basics">2.0 - Abilities: the very basics</h2>
 
 Gunbreaker has 29 total abilities and an additional 7 tank role actions. The central theme to the Gunbreaker's toolkit is the generation and spending of <span class="highlight-red">Cartridges</span>. Correctly executing {{site.data.spell.solid_barrel}} and {{site.data.spell.demon_slaughter}} in their respective combos generates a <span class="highlight-red">Cartridge</span>, which can be spent on {{site.data.spell.gnashing_fang}}, {{site.data.spell.burst_strike}}, or {{site.data.spell.fated_circle}}.
 
-### Learning your combos
+<h3 id="combos">2.1 - Learning your combos</h2>
 
 Basic single target combo:
 
@@ -70,18 +70,16 @@ This combo gains some additional complexity once you reach level 70 and unlock {
 3. {{site.data.spell.wicked_talon}}
     - {{site.data.spell.eye_gouge}}
 
-### Making use of your defensive arsenal
+<h3 id="defensives">2.2 - Making use of your defensive arsenal</h3>
 
 As a tank, it's important you are aware of the wide range of defensive abilities you have at your disposal. Tanks are mainly worried about two modes of damage in FFXIV: auto-attacks (when the boss punches you), and 'tank busters' (often associated with the boss casting an ability). Knowing when to use your defensive cooldowns is very important, and effective use of these will make you feel much bulkier.
 
+<hr>
+
+<h2 id="advanced">3.0 - Advanced ability information</h2>
 
 
-
-
-## Advanced ability information
-
-
-### Opener
+<h3 id="opener">3.1 - Openers</h3>
 
 An opener is a rigid order and timing of your abilities at the very start of a fight. These are designed to line up the highest damage parts of your rotation with your buffs and the buffs your party members provide. These may deviate slightly depending on group composition and fight, but it is generally a good idea to learn your job's opener so you can execute it from memory alone.
 
